@@ -1,0 +1,106 @@
+
+.navbar {
+    padding-top: 40px;
+}
+.navbar.alt {
+
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-color: #202020;
+    box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+    -webkit-animation-name: slideInDown;
+    animation-name: slideInDown;
+}
+.navbar-dark .navbar-nav .nav-link {
+	color: #ffffff;
+	text-transform: uppercase;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    
+	color: #ffffff;
+    text-decoration: underline;
+    
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 12px;
+    padding-left: 12px;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+.navbar-dark .navbar-nav .active > .nav-link, 
+.navbar-dark .navbar-nav .nav-link.active, 
+.navbar-dark .navbar-nav .nav-link.show, 
+.navbar-dark .navbar-nav .show > .nav-link {
+    color: #FFFFFF;
+    text-decoration: underline;
+    font: bolder;
+    font-weight: 600;
+
+}
+
+.navbar-toggler > .i1{
+    top:9px;
+}
+
+.navbar-toggler > .i2{
+    top:17px;
+}
+
+.navbar-toggler > .i3{
+    top:25px;
+}
+
+.navbar-toggler.active > .i2{
+    opacity:0;
+}
+.navbar-toggler.active > .i1,
+.navbar-toggler.active > .i3{
+    top:17px;
+}
+
+.navbar-toggler.active > .i1{
+    -webkit-transform:rotate(45deg);
+    -moz-transform:rotate(45deg);
+    -ms-transform:rotate(45deg);
+    -o-transform:rotate(45deg);
+    transform:rotate(45deg);
+}
+.navbar-toggler.active > .i3{
+    -webkit-transform:rotate(-45deg);
+    -moz-transform:rotate(-45deg);
+    -ms-transform:rotate(-45deg);
+    -o-transform:rotate(-45deg);
+    transform:rotate(-45deg);
+}
+
+.navbar-toggler {
+    position: relative;
+    width: 50px;
+    height: 40px;
+}
+.navbar-toggler > .icon-bar {
+    position: absolute;
+    width: 30px;
+    left: 10px;
+    margin: 0 !important;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    transition: all .3s ease;
+    background-color: #ffffff;
+    height: 3px;
+}
+
+@media (min-width: 991px) {
+.log-out{
+    border: white 1px solid; 
+    border-radius: 5px;
+    }
+}
+
+@media (min-width: 991px) {
+    .log-out:hover{
+    border-color: #e0e3dd;
+        border-radius: 5px;
+    }
+    }
