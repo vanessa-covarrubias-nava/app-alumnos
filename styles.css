@@ -1,3 +1,40 @@
+/** FONTS */
+
+
+/** FONTS */
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+/** BODY */
+
+body{
+    font-family: poppins;
+}
+
+h4{
+    font-family: poppins, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    height: 16px;
+}
+
+.subtitulo {
+    font-family: poppins, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+/** BODY */
+
+
+
+
 /** NAV */
 
 .navbar {
@@ -107,7 +144,7 @@
     }
 
 .spacer{
-    height: 100px;
+    height: 85px;
 }
 
 /** NAV */
@@ -115,9 +152,13 @@
     display: flex;
     align-items: center;
     height:auto; 
-    border-radius: 8px;
+    padding: 1rem 0.25rem;
+
+    border-radius: 14px !important;
     box-shadow: 0px 0px 2px 1px rgb(222, 220, 220);
     border: rgb(241, 239, 239) 1px solid;
+    margin: 8px;
+
 }
 
 .list-group-item:hover {
@@ -205,6 +246,12 @@
 /** LISTA */
 
 /** ICONO*/
-.fa-briefcase{
-    padding-right: 15px;
+.material-symbols-outlined{
+    background-color: 5F5EA3;
+    color: white;
+    border-radius: 30px;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
 }
