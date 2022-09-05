@@ -356,3 +356,20 @@ div#headingOne1 {
     float: right;
     margin-top: 8px;
 }
+
+svg {
+    width: 100%;
+  }
+
+  footer.bg-dark.text-center.text-white, .text-center.p-3 {
+    background-color: #333333 !important;
+}
+
+.mb-4, .my-4, p, p-4 {
+    margin-bottom: 0.5rem !important;
+    padding: -0.5rem;
+}
+
+.container.p-4 {
+    padding: 0.5rem !important;
+}
