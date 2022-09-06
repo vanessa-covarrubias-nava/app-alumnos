@@ -367,10 +367,12 @@ div#headingOne1 {
     margin-top: 8px;
 }
 
+
 svg {
     width: 100% !important;
     object-fit: contain;
-    background-color: white !important;
+    fill: white !important;
+    vertical-align: middle;
 }
 
   footer.bg-dark.text-center.text-white, .text-center.p-3 {
@@ -384,4 +386,8 @@ svg {
 
 .container.p-4 {
     padding: 0.5rem !important;
+}
+
+div#footer-placeholder {
+    margin-top: auto;
 }
