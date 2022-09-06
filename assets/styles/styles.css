@@ -55,6 +55,16 @@ li.subtitulo-10 {
     text-decoration: none;
 }
 
+.subtitulo-10 {
+    font-family: poppins, sans-serif;
+    font-style: normal;
+    font-size: 10px;
+    font-weight: 400;
+    color: 333333;
+    text-decoration: none;
+}
+
+
 a, a:link, a:visited, a:hover, a:active {
     text-decoration: none;
 }
@@ -358,8 +368,10 @@ div#headingOne1 {
 }
 
 svg {
-    width: 100%;
-  }
+    width: 100% !important;
+    object-fit: contain;
+    background-color: white !important;
+}
 
   footer.bg-dark.text-center.text-white, .text-center.p-3 {
     background-color: #333333 !important;
