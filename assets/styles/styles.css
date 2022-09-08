@@ -391,3 +391,7 @@ svg {
 div#footer-placeholder {
     margin-top: auto;
 }
+
+.container{
+    margin-bottom: auto; 
+}
