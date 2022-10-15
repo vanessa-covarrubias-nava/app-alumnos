@@ -9,16 +9,82 @@ function makeList() {
          icon: "work",
       },
       {
-         titulo:"prueba2",
-         subtitulo:"prueba descrip",
-         href: "",
-         icon: "",
+         titulo:"SICEUC",
+         subtitulo:"Consulta de calificaciones, fechas de evaluación y pagos.",
+         href: "https://siceuc.ucol.mx/",
+         icon: "history_edu",
       },
       {
-         titulo:"jdcsnkcdlkdlkio.",
-         subtitulo:"Consulta tus materias (sólo educación superior) evaluaciones en EvPraxis.",
-         href: "",
-         icon: "",
+         titulo:"Calendario",
+         subtitulo:"Fechas e informaión oficial del ciclo escolar en curso.",
+         href: "./calendario.html",
+         icon: "calendar_month",
+      },
+      {
+         titulo:"Becas",
+         subtitulo:"Distintos programas de becas para cada nivel académico.",
+         href: "./becas.html",
+         icon: "volunteer_activism",
+      },
+      
+      {
+         titulo:"Intereses",
+         subtitulo:"Deportes, Arte y Cultura, Búsqueda en UCOL.",
+         href: "./intereses.html",
+         icon: "interests",
+      },
+      
+      {
+         titulo:"Entérate",
+         subtitulo:"Noticias y actividades universitarias de índole cultural, científico y deportivo.",
+         href: "./enterate.html",
+         icon: "newspaper",
+      },
+            
+      {
+         titulo:"Convocatorias",
+         subtitulo:"Convocatorias educativas y programas de movilidad.",
+         href: "./convocatorias.html",
+         icon: "event",
+      },
+      
+      {
+         titulo:"Oferta Educativa",
+         subtitulo:"Nivel media superior, licenciatura, especialidad, maestría y doctorado.",
+         href: "./",
+         icon: "school",
+      },
+      
+      {
+         titulo:"Movilidad",
+         subtitulo:"Programa de movilidad.",
+         href: "./movilidad.html",
+         icon: "flight",
+      },
+      {
+         titulo:"Planteles y dependencias",
+         subtitulo:"Sitio web, mapa de ubicación y directorio telefónico de planteles y dependencias.",
+         href: "https://www.ucol.mx/conocenos/planteles-dependencias.htm",
+         icon: "apartment",
+      },
+      {
+         titulo:"ReBUC",
+         subtitulo:"Consulta libros de la red de bibliotecas universitarias y la ubicación de las bibliotecas.",
+         href: "http://siabuc.ucol.mx/rebuc/",
+         icon: "newspaper",
+      },
+      
+      {
+         titulo:"Protocolos de seguridad",
+         subtitulo:"Guías y protocolos d seguridad en caso de alguna emergencia universitaria.",
+         href: "https://www.ucol.mx/acerca-de/seguridad-proteccion-civil.htm",
+         icon: "verified_user",
+      },
+      {
+         titulo:"Contacto",
+         subtitulo:"Escribenos a sistemasapp@ucol.mx o déjanos tus comentarios y sugerencias.",
+         href: "mailto:sistemas@ucol.mx",
+         icon: "mail",
       },
    ],
       
