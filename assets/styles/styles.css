@@ -395,3 +395,10 @@ div#footer-placeholder {
 .container{
     margin-bottom: auto; 
 }
+
+ul {
+    text-decoration: none;
+    list-style-type: none;
+    /* margin: 0px; */
+    padding: 0px;
+}

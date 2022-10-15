@@ -1,6 +1,8 @@
-{"auth":"",
-"status":"1",
-"actions":{"JSON":{"sections":{"0":{"title":"Inicio",
+{
+    "auth":"",
+    "status":"1",
+    "actions":
+        {"JSON":{"sections":{"0":{"title":"Inicio",
 "description":"",
 "collection":{"esfuerzo2":{"title":"a. Se\u00f1ala el grado de satisfacci\u00f3n por el desempe\u00f1o y aprendizaje que lograste gracias a la labor del docente.",
 "options":{"0":{"title":"Muy insatisfecho","color":"#c42c32"},
