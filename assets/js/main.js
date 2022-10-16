@@ -49,14 +49,8 @@ function makeList() {
       {
          titulo:"Oferta Educativa",
          subtitulo:"Nivel media superior, licenciatura, especialidad, maestría y doctorado.",
-         href: "./",
+         href: "./oferta-educativa.html",
          icon: "school",
-      },
-      {
-         titulo:"Movilidad",
-         subtitulo:"Programa de movilidad.",
-         href: "./movilidad.html",
-         icon: "flight",
       },
       {
          titulo:"Planteles y dependencias",

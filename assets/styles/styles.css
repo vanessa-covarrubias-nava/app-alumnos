@@ -446,8 +446,6 @@ li.fecha {
 }
 
 
-element.style {
-}
 .navbar-dark .navbar-brand {
     color: #fff;
 }
@@ -456,3 +454,22 @@ div#div {
     padding-bottom: 20px;
 }
 
+.titulo-convocatorias{
+    font-family: poppins, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    height: 16px;
+    color: 333333;
+    text-decoration: none;
+    text-align: center;
+    padding: 0px;
+}
+
+li {
+    list-style-type: none;
+}
+
+div#listItem {
+    width: 22rem !important;
+}
