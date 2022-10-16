@@ -26,7 +26,6 @@ function makeList() {
          href: "./becas.html",
          icon: "volunteer_activism",
       },
-      
       {
          titulo:"Intereses",
          subtitulo:"Deportes, Arte y Cultura, Búsqueda en UCOL.",
@@ -47,14 +46,12 @@ function makeList() {
          href: "./convocatorias.html",
          icon: "event",
       },
-      
       {
          titulo:"Oferta Educativa",
          subtitulo:"Nivel media superior, licenciatura, especialidad, maestría y doctorado.",
          href: "./",
          icon: "school",
       },
-      
       {
          titulo:"Movilidad",
          subtitulo:"Programa de movilidad.",
@@ -73,7 +70,6 @@ function makeList() {
          href: "http://siabuc.ucol.mx/rebuc/",
          icon: "newspaper",
       },
-      
       {
          titulo:"Protocolos de seguridad",
          subtitulo:"Guías y protocolos d seguridad en caso de alguna emergencia universitaria.",

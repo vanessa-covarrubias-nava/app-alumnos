@@ -402,3 +402,57 @@ ul {
     /* margin: 0px; */
     padding: 0px;
 }
+
+li.subtitulo {
+    list-style-type: none;
+}
+
+div#listItem {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 50%;
+    border-radius: 15px;
+
+}
+
+a.btn.btn-primary-enterate {
+    background-color: 6750A4;
+    color: white;
+    float: right;
+    margin-top: 20px;
+    border-radius: 20px !important;
+}
+
+.img-enterate{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+li.fecha {
+    font-family: poppins, sans-serif;
+    font-style: normal;
+    font-size: 10px;
+    font-weight: 400;
+    color: 333333;
+    text-decoration: none;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    /* color: green !important; */
+    background-color: #A3BF42 !important;
+}
+
+
+element.style {
+}
+.navbar-dark .navbar-brand {
+    color: #fff;
+}
+
+div#div {
+    padding-bottom: 20px;
+}
+
